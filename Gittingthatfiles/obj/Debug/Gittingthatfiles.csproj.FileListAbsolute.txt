@@ -4,3 +4,6 @@ C:\Users\philip.enhorning\Desktop\School Projects\Programmering\Uppgifter\Gittin
 C:\Users\philip.enhorning\Desktop\School Projects\Programmering\Uppgifter\Gittingthatfiles\Gittingthatfiles\obj\Debug\Gittingthatfiles.csprojResolveAssemblyReference.cache
 C:\Users\philip.enhorning\Desktop\School Projects\Programmering\Uppgifter\Gittingthatfiles\Gittingthatfiles\obj\Debug\Gittingthatfiles.exe
 C:\Users\philip.enhorning\Desktop\School Projects\Programmering\Uppgifter\Gittingthatfiles\Gittingthatfiles\obj\Debug\Gittingthatfiles.pdb
+C:\Users\philip.enhorning\Desktop\School Projects\Programmering\Uppgifter\Gittingthatfiles\Hardcore-Programming\Gittingthatfiles\bin\Debug\Gittingthatfiles.exe.config
+C:\Users\philip.enhorning\Desktop\School Projects\Programmering\Uppgifter\Gittingthatfiles\Hardcore-Programming\Gittingthatfiles\obj\Debug\Gittingthatfiles.exe
+C:\Users\philip.enhorning\Desktop\School Projects\Programmering\Uppgifter\Gittingthatfiles\Hardcore-Programming\Gittingthatfiles\obj\Debug\Gittingthatfiles.pdb
